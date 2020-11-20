@@ -6,7 +6,6 @@ Compilation of Resources from TCM's OSINT Course
 TCM-Security: https://tcm-sec.com/
 
 Links to Course:
-* Udemy: 
 * TCM-Academy: https://academy.tcm-sec.com/p/osint-fundamentals
 
 Twitter: https://twitter.com/thecybermentor
