@@ -35,7 +35,7 @@ Flameshot - https://github.com/flameshot-org/flameshot
 
 ### Sock Puppets
 
-Intro to Creating an Effective Sock Puppet: https://jakecreps.com/2018/11/02/sock-puppets/
+Intro to Creating an Effective Sock Puppet: https://jakecreps.com/sock-puppets/
 
 The Art Of The Sock - https://www.secjuice.com/the-art-of-the-sock-osint-humint/
 
