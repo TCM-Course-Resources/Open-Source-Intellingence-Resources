@@ -1,4 +1,5 @@
 # Open-Source-Intelligence-Resources
+
 Compilation of Resources from TCM's OSINT Course
 
 ### General Links
@@ -6,6 +7,7 @@ Compilation of Resources from TCM's OSINT Course
 TCM-Security: https://tcm-sec.com/
 
 Links to Course:
+
 * Udemy: https://www.udemy.com/course/osint-fundamentals/
 * TCM-Academy: https://academy.tcm-sec.com/p/osint-fundamentals
 
@@ -89,7 +91,7 @@ Email Checker - https://email-checker.net/validate
 
 Clearbit Connect - https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo?hl=en
 
-### Password OSINT 
+### Password OSINT
 
 Dehashed - https://dehashed.com/
 
@@ -149,7 +151,7 @@ Twitonomy - https://www.twitonomy.com/
 
 Sleeping Time - http://sleepingtime.org/
 
-Mentionmapp - https://mentionmapp.com/
+Broken link: ~~Mentionmapp - https://mentionmapp.com~~/
 
 Tweetbeaver - https://tweetbeaver.com/
 
