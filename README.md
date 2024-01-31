@@ -81,6 +81,8 @@ Hunter.io - https://hunter.io/
 
 Phonebook.cz - https://phonebook.cz/
 
+SendBridge - https://sendbridge.com/
+
 VoilaNorbert - https://www.voilanorbert.com/
 
 Email Hippo - https://tools.verifyemailaddress.io/
