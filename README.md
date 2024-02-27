@@ -6,7 +6,7 @@ Compilation of Resources from TCM's OSINT Course
 TCM-Security: https://tcm-sec.com/
 
 Links to Course:
-* Udemy: https://www.udemy.com/course/osint-fundamentals/
+* Udemy: https://www.udemy.com/course/osint-fundamentals/ (Out of date)
 * TCM-Academy: https://academy.tcm-sec.com/p/osint-fundamentals
 
 Twitter: https://twitter.com/thecybermentor
@@ -19,7 +19,7 @@ Discord: https://tcm-sec.com/discord/
 
 ### Note Keeping
 
-KeepNote: http://keepnote.org/
+KeepNote - http://keepnote.org/
 
 CherryTree - https://www.giuspen.com/cherrytree/
 
@@ -143,31 +143,11 @@ Infobel - https://infobel.com/
 
 Twitter Advanced Search - https://twitter.com/search-advanced
 
-Social Bearing - https://socialbearing.com/
+OSINT Tool Collection - https://github.com/rmdir-rp/OSINT-twitter-tools
 
-Twitonomy - https://www.twitonomy.com/
-
-Sleeping Time - http://sleepingtime.org/
-
-Mentionmapp - https://mentionmapp.com/
-
-Tweetbeaver - https://tweetbeaver.com/
-
-Spoonbill.io - http://spoonbill.io/
-
-Tinfoleak - https://tinfoleak.com/
-
-TweetDeck - https://tweetdeck.com/
-
-Sowdust Github - https://sowdust.github.io/fb-search/
+Sowdust Github - https://sowsearch.info
 
 IntelligenceX Facebook Search - https://intelx.io/tools?tab=facebook
-
-Wopita - https://wopita.com/
-
-Code of a Ninja - https://codeofaninja.com/tools/find-instagram-user-id/
-
-InstaDP - https://www.instadp.com/
 
 ImgInn - https://imginn.com/
 
@@ -191,9 +171,11 @@ Back Link Watch - http://backlinkwatch.com/index.php
 
 View DNS - https://viewdns.info/
 
-Pentest-Tools Subdomain Finder - https://pentest-tools.com/information-gathering/find-subdomains-of-domain#
+urlscan.io - https://urlscan.io/
 
-Spyse - https://spyse.com/
+DNSdumpster - https://dnsdumpster.com/
+
+Web Check - https://web-check.as93.net/
 
 crt.sh - https://crt.sh/
 
@@ -217,13 +199,17 @@ VMWare Workstation Player - https://www.vmware.com/ca/products/workstation-playe
 
 VirtualBox - https://www.virtualbox.org/wiki/Downloads
 
-TraceLabs OSINT VM - https://www.tracelabs.org/initiatives/osint-vm
-
-TraceLabs OSINT VM Installation Guide - https://download.tracelabs.org/Trace-Labs-OSINT-VM-Installation-Guide-v2.pdf
+Kali Linux - https://www.kali.org/get-kali
 
 ### Working with OSINT Tools
 
-breach-parse - https://github.com/hmaverickadams/breach-parse
+Dehashed API Tool - https://github.com/hmaverickadams/DeHashed-API-Tool
+
+Programming with AI Course - https://academy.tcm-sec.com/p/programming-with-ai
+
+Hunchly - https://hunch.ly
+
+### OSINT Automation Foundations
 
 Subfinder - https://github.com/projectdiscovery/subfinder
 
@@ -236,8 +222,6 @@ Amass - https://github.com/OWASP/Amass
 GoWitness - https://github.com/sensepost/gowitness/wiki/Installation
 
 ### Additional Resources
-
-TraceLabs - https://www.tracelabs.org/
 
 Innocent Lives Foundation - https://www.innocentlivesfoundation.org/
 
