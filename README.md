@@ -19,7 +19,7 @@ Discord: https://tcm-sec.com/discord/
 
 ### Note Keeping
 
-KeepNote: http://keepnote.org/
+KeepNote - http://keepnote.org/
 
 CherryTree - https://www.giuspen.com/cherrytree/
 
