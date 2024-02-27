@@ -1,5 +1,5 @@
 # Open-Source-Intelligence-Resources
-Compilation of Resources from TCM's OSINT Course updated with the all of the most recent links 
+Compilation of Resources from TCM's OSINT Course
 
 ### General Links
 
